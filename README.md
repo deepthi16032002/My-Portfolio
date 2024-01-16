@@ -72,7 +72,7 @@ This Project aims to develop a system that can detect suicidal ideation on Twitt
 In this project we trained several Deep learning models such as LSTM(Long Short -Term Memory), GRU(Gated Recurrent unit),andCNN(ConvolutionalNeuralNetwork)
 
 ## 𝐒𝐤𝐢𝐥𝐥𝐬
-- **Programming Languages:** JAVA,C,BASIC PYTHON
+- **Programming Languages:** JAVA,C,BASIC PYTHON,DSA,MYSQL
 - **Web Technologies:** HTML,CSS,JAVA SCRIPT
 
 Thank you for visiting my portfolio!
