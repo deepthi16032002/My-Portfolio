@@ -46,7 +46,7 @@
 - Contact
 
 ## 𝐀𝐛𝐨𝐮𝐭
-I am a Aspiring Full Stack Java Developer with proficiency in Java, HTML,CSS,JS and
+I am a Aspiring Full Stack Java Developer with proficiency in Java, HTML,CSS,JavaScript and
 responsive web development demonstrated through practical projects and coursework.
 This portfolio serves as a testament to my journey and accomplishments.
 
