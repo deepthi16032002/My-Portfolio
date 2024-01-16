@@ -17,7 +17,7 @@
 
 
 
-
+![Screenshot (146)](https://github.com/deepthi16032002/My-Portfolio/assets/134869226/81c845c3-ff2a-4126-9571-2c57db7175fd)
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-![Screenshot (146)](https://github.com/deepthi16032002/My-Portfolio/assets/134869226/81c845c3-ff2a-4126-9571-2c57db7175fd)
+
 
 
 
